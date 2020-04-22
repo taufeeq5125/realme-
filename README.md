@@ -1,2 +1,2 @@
-# realme-
-Realme mi creater of phone 
+# realme- 
+Just another realme
